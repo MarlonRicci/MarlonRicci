@@ -7,6 +7,7 @@
   <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
   <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
   <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+  <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" title="SQL Server"><img src="icons/sqlserver.png" /></a>
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
   <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 </div>
