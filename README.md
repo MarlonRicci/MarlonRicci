@@ -12,13 +12,13 @@
   <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 </div>
 
-## Social Media:
+## Social Media
 
 [![GitHub](icons/github.png)](https://github.com/MarlonRicci)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/marlon-ricci/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/marloon_ricci/)
 
-## ⭐  Statistics
+## ⭐ Statistics
 
 |GITHUB STATS|LANGUAGES|
 |:---:|:---:|
